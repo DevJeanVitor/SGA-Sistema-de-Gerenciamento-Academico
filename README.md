@@ -128,5 +128,5 @@ O projeto já inclui um ficheiro de configuração tasks.json para facilitar a c
 
 Este projeto foi desenvolvido por: **Jean Vítor**.
 
-- [LinkedIn](www.linkedin.com/in/devjeanvitor)
+- [LinkedIn](https://www.linkedin.com/in/devjeanvitor)
 - [GitHub](https://github.com/DevJeanVitor)
