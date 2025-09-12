@@ -23,10 +23,7 @@ A aplicação utiliza os paradigmas da Programação Orientada a Objetos para mo
 O sistema oferece as seguintes operações:
 
 1.  **Cadastro de Aluno do Ensino Médio:** Coleta nome, matrícula e duas notas.
-
-<div align="center">
     ![CadastroEM](https://github.com/user-attachments/assets/7908e942-34da-42c9-8b64-b24970d3a542).
-</div>
 
 3.  **Cadastro de Aluno do Ensino Técnico:** Coleta os mesmos dados do aluno de Ensino Médio, mais o nome do curso técnico.
     ![CadastroTec](https://github.com/user-attachments/assets/475b6ba1-d380-4fe0-b772-320d73a9b1f0).
