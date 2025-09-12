@@ -65,8 +65,12 @@ O vídeo a seguir demonstra como o sistema reage a entradas inválidas, solicita
 
 O projeto foi estruturado seguindo os princípios da POO:
 
+-   **Encapsulamento:** Os atributos das classes, como `nome`, `matricula` e `notas` na classe `Estudante`, são declarados como `private`. O acesso e a manipulação desses dados são controlados através de métodos públicos (`public`), como `obterNome()`, `calcularResultados()` e `exibirDetalhes()`. Isso protege a integridade dos dados e oculta a complexidade interna dos objetos.
+
 -   **Abstração:** A classe `StatusAprovacao` atua como uma interface (classe abstrata pura), definindo um "contrato" que obriga as classes filhas a implementar um método `avaliarStatus()`.
+
 -   **Herança:** A classe `Estudante` herda de `StatusAprovacao`, e a classe `EstudanteTecnico` herda de `Estudante`, reutilizando atributos e métodos e especializando o comportamento quando necessário.
+
 -   **Polimorfismo:** O método `obterDadosExtras()` é declarado como `virtual` na classe `Estudante` e sobrescrito (`override`) na classe `EstudanteTecnico`. Isso permite que o mesmo método se comporte de maneiras diferentes dependendo do objeto, exibindo o curso apenas para alunos técnicos.
 
 ## Estrutura do Projeto
