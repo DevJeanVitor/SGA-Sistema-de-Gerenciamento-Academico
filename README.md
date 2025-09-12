@@ -100,8 +100,9 @@ Existem duas formas de compilar o projeto:
 #### Opção A: Via Linha de Comando (g++)
 
 Navegue até à pasta raiz do projeto (`SGA`) pelo terminal e execute o comando abaixo:
-
+    ```bash
 g++ main.cpp Estudante.cpp EstudanteTecnico.cpp Validacao.cpp Sistema.cpp -o sga_programa
+    ```
 
 Após a compilação, um executável chamado sga_programa.exe (no Windows) ou sga_programa (no Linux/macOS) será criado. Para executar, utilize:
 
