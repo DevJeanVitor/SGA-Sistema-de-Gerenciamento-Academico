@@ -120,5 +120,5 @@ Abra o terminal integrado do VS Code (Ctrl+ ` ) e execute o programa com o coman
 
 Este projeto foi desenvolvido por: **Jean Vítor**.
 
-- [LinkedIn](www.linkedin.com/in/devjeanvitor)
+- [LinkedIn](www.linkedin.com/in/devjeanvitor/)
 - [GitHub](https://github.com/DevJeanVitor)
