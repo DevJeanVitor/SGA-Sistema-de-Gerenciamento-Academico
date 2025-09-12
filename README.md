@@ -95,6 +95,12 @@ O código-fonte foi modularizado para separar as responsabilidades e facilitar a
 
 ## Compilação e Execução
 
+1 - Clonar o Repositório
+
+```bash
+git clone (https://github.com/DevJeanVitor/SGA-Sistema-de-Gerenciamento-Academico.git)
+ ```
+
 Existem duas formas de compilar o projeto:
 
 #### Opção A: Via Linha de Comando (g++)
