@@ -23,16 +23,16 @@ A aplicação utiliza os paradigmas da Programação Orientada a Objetos para mo
 O sistema oferece as seguintes operações:
 
 1.  **Cadastro de Aluno do Ensino Médio:** Coleta nome, matrícula e duas notas.
-    (https://github.com/user-attachments/assets/7908e942-34da-42c9-8b64-b24970d3a542)
+    [CadastroEM](https://github.com/user-attachments/assets/7908e942-34da-42c9-8b64-b24970d3a542).
 
 3.  **Cadastro de Aluno do Ensino Técnico:** Coleta os mesmos dados do aluno de Ensino Médio, mais o nome do curso técnico.
-    (https://github.com/user-attachments/assets/475b6ba1-d380-4fe0-b772-320d73a9b1f0)
+    [CadastroTec](https://github.com/user-attachments/assets/475b6ba1-d380-4fe0-b772-320d73a9b1f0).
 
 4.  **Busca por Matrícula:** Permite localizar um aluno específico em qualquer uma das listas (Médio ou Técnico) a partir de sua matrícula.
-    (https://github.com/user-attachments/assets/f65d1eb6-f36f-4fbd-a46a-c9dac5e9817c)
+    [Busca](https://github.com/user-attachments/assets/f65d1eb6-f36f-4fbd-a46a-c9dac5e9817c).
 
 5.  **Listagem de Alunos Cadastrados:** Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação.
-    (https://github.com/user-attachments/assets/80aa2c68-46af-40d7-a9d9-d8fc39eb3cb9)
+    [Listagem](https://github.com/user-attachments/assets/80aa2c68-46af-40d7-a9d9-d8fc39eb3cb9).
 
 ## Validação de Dados
 
@@ -61,7 +61,7 @@ O projeto foi estruturado seguindo os princípios da POO:
 
 O código-fonte foi modularizado para separar as responsabilidades e facilitar a manutenção, seguindo a estrutura hierárquica abaixo:
 
-```text
+```
 /SGA
 |-- StatusAprovacao.h
 |-- Estudante.h
@@ -75,6 +75,7 @@ O código-fonte foi modularizado para separar as responsabilidades e facilitar a
 |-- main.cpp
 |-- .vscode/
 |   |-- tasks.json
+```
 
 ## Compilação e Execução
 
@@ -84,7 +85,6 @@ Existem duas formas de compilar o projeto:
 
 Navegue até à pasta raiz do projeto (`SGA`) pelo terminal e execute o comando abaixo:
 
-```bash
 g++ main.cpp Estudante.cpp EstudanteTecnico.cpp Validacao.cpp Sistema.cpp -o sga_programa
 
 Após a compilação, um executável chamado sga_programa.exe (no Windows) ou sga_programa (no Linux/macOS) será criado. Para executar, utilize:
