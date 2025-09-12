@@ -2,11 +2,11 @@
 
 # SGA (Sistema de Gerenciamento Acadêmico)
 
-O SGA é um sistema de console desenvolvido em C++ para o gerenciamento de registros de estudantes. O projeto permite cadastrar, consultar e listar alunos do Ensino Médio e Técnico, aplicando conceitos fundamentais de Programação Orientada a Objetos para garantir um código modular, reutilizável e de fácil manutenção.
+O SGA é um sistema de console desenvolvido em C++ para o gerenciamento de registros de estudantes. O projeto permite cadastrar, consultar e listar alunos do Ensino Médio e Técnico, aplicando conceitos  de Programação Orientada a Objetos (POO) para garantir um código modular, reutilizável e de fácil manutenção.
 
 ## Demonstração do Sistema
 
-O vídeo abaixo apresenta um resumo completo das funcionalidades do sistema, desde o cadastro de diferentes tipos de alunos até a consulta e listagem dos registros.
+O vídeo abaixo apresenta uma demonstração completa das funcionalidades do sistema, desde o cadastro de diferentes tipos de alunos até a consulta e listagem dos registros.
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/5a73c38a-655c-4147-b68d-1bb60a7e5c4f" controls="controls" style="max-width: 800px;"></video>
@@ -14,9 +14,9 @@ O vídeo abaixo apresenta um resumo completo das funcionalidades do sistema, des
 
 ## Sobre o Projeto
 
-Este sistema foi criado como uma solução para a gestão de dados acadêmicos em um ambiente de console. Ele se destaca pela sua organização estrutural, separação de responsabilidades em diferentes módulos e pela robustez no tratamento de entradas de dados, garantindo uma experiência de usuário segura e intuitiva.
+Este sistema foi criado para a gestão de dados acadêmicos em um ambiente de console. Abordando tanto a organização estrutural, separação de responsabilidades em diferentes módulos integrado ao tratamento de entradas de dados, garantindo uma experiência de usuário mais segura e intuitiva.
 
-A aplicação utiliza os paradigmas da Programação Orientada a Objetos para modelar as entidades do sistema, como `Estudante` e `EstudanteTecnico`, promovendo um código limpo e escalável.
+A aplicação utiliza os paradigmas da Programação Orientada a Objetos (POO) para modelar as entidades do sistema, como `Estudante` e `EstudanteTecnico`, promovendo um código mais limpo e escalável.
 
 ## Funcionalidades Principais
 
@@ -100,26 +100,29 @@ Existem duas formas de compilar o projeto:
 #### Opção A: Via Linha de Comando (g++)
 
 Navegue até à pasta raiz do projeto (`SGA`) pelo terminal e execute o comando abaixo:
-    ```bash
+
+```bash
 g++ main.cpp Estudante.cpp EstudanteTecnico.cpp Validacao.cpp Sistema.cpp -o sga_programa
-    ```
+````
 
 Após a compilação, um executável chamado sga_programa.exe (no Windows) ou sga_programa (no Linux/macOS) será criado. Para executar, utilize:
 
+```bash
 ./sga_programa
+````
 
 ### Opção B: Via VS Code (Tarefa Automatizada)
 O projeto já inclui um ficheiro de configuração tasks.json para facilitar a compilação dentro do Visual Studio Code.
 
-Abra a pasta do projeto no VS Code.
+1 - Abra a pasta do projeto no VS Code.
 
-Verifique o caminho do compilador: Abra o ficheiro .vscode/tasks.json. Localize a linha "command" e substitua o caminho de exemplo pelo caminho real do seu compilador g++.exe.
+2 - Verifique o caminho do compilador: Abra o ficheiro .vscode/tasks.json. Localize a linha "command" e substitua o caminho de exemplo pelo caminho real do seu compilador g++.exe.
 
-Com qualquer ficheiro .cpp aberto, pressione o atalho Ctrl+Shift+B.
+3 - Com qualquer ficheiro .cpp aberto, pressione o atalho Ctrl+Shift+B.
 
-A tarefa de compilação será executada, gerando o ficheiro sga_programa.exe.
+4 - A tarefa de compilação será executada, gerando o ficheiro sga_programa.exe.
 
-Abra o terminal integrado do VS Code (Ctrl+ ` ) e execute o programa com o comando ./sga_programa.
+5 - Abra o terminal integrado do VS Code (Ctrl+ ` ) e execute o programa com o comando ./sga_programa.
 
 ## Autor
 
