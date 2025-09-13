@@ -28,19 +28,19 @@ O sistema oferece as seguintes operações:
   <img src="https://github.com/user-attachments/assets/7908e942-34da-42c9-8b64-b24970d3a542" alt="Cadastro de Aluno do Ensino Médio: Coleta nome, matrícula e duas notas" width="500">
 </p>
 
-3.  **Cadastro de Aluno do Ensino Técnico:** Coleta os mesmos dados do aluno de Ensino Médio, mais o nome do curso técnico.
+2.  **Cadastro de Aluno do Ensino Técnico:** Coleta os mesmos dados do aluno de Ensino Médio, mais o nome do curso técnico.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/475b6ba1-d380-4fe0-b772-320d73a9b1f0" alt="Cadastro de Aluno do Ensino Técnico: Coleta os mesmos dados do aluno de Ensino Médio, mais o nome do curso técnico.s" width="500">
 </p>
 
-4.  **Busca por Matrícula:** Permite localizar um aluno específico em qualquer uma das listas (Médio ou Técnico) a partir de sua matrícula.
+3.  **Busca por Matrícula:** Permite localizar um aluno específico em qualquer uma das listas (Médio ou Técnico) a partir de sua matrícula.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f65d1eb6-f36f-4fbd-a46a-c9dac5e9817c" alt="Busca por Matrícula: Permite localizar um aluno específico em qualquer uma das listas (Médio ou Técnico) a partir de sua matrícula" width="500">
 </p>
 
-5.  **Listagem de Alunos Cadastrados:** Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação.
+4.  **Listagem de Alunos Cadastrados:** Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/80aa2c68-46af-40d7-a9d9-d8fc39eb3cb9" alt="Listagem de Alunos Cadastrados: Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação." width="500">
