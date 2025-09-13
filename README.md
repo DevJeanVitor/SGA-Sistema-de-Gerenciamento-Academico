@@ -37,13 +37,13 @@ O sistema oferece as seguintes operações:
 3.  **Busca por Matrícula:** Permite localizar um aluno específico em qualquer uma das listas (Médio ou Técnico) a partir de sua matrícula.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f65d1eb6-f36f-4fbd-a46a-c9dac5e9817c" alt="Busca por Matrícula: Permite localizar um aluno específico em qualquer uma das listas (Médio ou Técnico) a partir de sua matrícula" width="500">
+  <img src="https://github.com/user-attachments/assets/80aa2c68-46af-40d7-a9d9-d8fc39eb3cb9" alt="Busca por Matrícula: Permite localizar um aluno específico em qualquer uma das listas (Médio ou Técnico) a partir de sua matrícula" width="500">
 </p>
 
 4.  **Listagem de Alunos Cadastrados:** Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80aa2c68-46af-40d7-a9d9-d8fc39eb3cb9" alt="Listagem de Alunos Cadastrados: Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação." width="500">
+  <img src= "https://github.com/user-attachments/assets/f65d1eb6-f36f-4fbd-a46a-c9dac5e9817c" alt="Listagem de Alunos Cadastrados: Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação." width="500">
 </p>
 
 ## Validação de Dados
