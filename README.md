@@ -122,13 +122,13 @@ O projeto já inclui um ficheiro de configuração tasks.json para facilitar a c
 
 1 - Abra a pasta do projeto no VS Code.
 
-2 - Verifique o caminho do compilador: Abra o ficheiro .vscode/tasks.json. Localize a linha "command" e substitua o caminho de exemplo pelo caminho real do seu compilador g++.exe.
+2 - Verifique o caminho do compilador: Abra o ficheiro **.vscode/tasks.json**. Localize a linha "command" e substitua o caminho de exemplo pelo caminho real do seu compilador g++.exe.
 
-3 - Com qualquer ficheiro .cpp aberto, pressione o atalho Ctrl+Shift+B.
+3 - Com qualquer ficheiro .cpp aberto, pressione o atalho **Ctrl+Shift+B**.
 
-4 - A tarefa de compilação será executada, gerando o ficheiro sga_programa.exe.
+4 - A tarefa de compilação será executada, gerando o ficheiro **sga_programa.exe**.
 
-5 - Abra o terminal integrado do VS Code (Ctrl+ ` ) e execute o programa com o comando ./sga_programa.
+5 - Abra o terminal integrado do VS Code **(Ctrl+ ` )** e execute o programa com o comando **./sga_programa**.
 
 ## Autor
 
