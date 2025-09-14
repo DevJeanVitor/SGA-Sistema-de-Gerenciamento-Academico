@@ -9,7 +9,7 @@ O SGA é um sistema de console desenvolvido em C++ para o gerenciamento de regis
 O vídeo abaixo apresenta uma demonstração completa das funcionalidades do sistema, desde o cadastro de diferentes tipos de alunos até a consulta e listagem dos registros.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/5a73c38a-655c-4147-b68d-1bb60a7e5c4f" controls="controls" style="max-width: 800px;"></video>
+  <video src="https://github.com/user-attachments/assets/297ce749-ef5e-4caf-89f2-87c80180b886" controls="controls" style="max-width: 800px;"></video>
 </div>
 
 ## Sobre o Projeto
@@ -25,25 +25,25 @@ O sistema oferece as seguintes operações:
 1.  **Cadastro de Aluno do Ensino Médio:** Coleta nome, matrícula e duas notas.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7908e942-34da-42c9-8b64-b24970d3a542" alt="Cadastro de Aluno do Ensino Médio: Coleta nome, matrícula e duas notas" width="500">
+  <img src="https://github.com/user-attachments/assets/992d32da-777d-4323-b716-b50b125f94ea" alt="Cadastro de Aluno do Ensino Médio: Coleta nome, matrícula e duas notas" width="500">
 </p>
 
 2.  **Cadastro de Aluno do Ensino Técnico:** Coleta os mesmos dados do aluno de Ensino Médio, mais o nome do curso técnico.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/475b6ba1-d380-4fe0-b772-320d73a9b1f0" alt="Cadastro de Aluno do Ensino Técnico: Coleta os mesmos dados do aluno de Ensino Médio, mais o nome do curso técnico.s" width="500">
+  <img src="https://github.com/user-attachments/assets/0cb9f77e-9cea-452f-bb34-5b4f6a8434c4" alt="Cadastro de Aluno do Ensino Técnico: Coleta os mesmos dados do aluno de Ensino Médio, mais o nome do curso técnico.s" width="500">
 </p>
 
 3.  **Busca por Matrícula:** Permite localizar um aluno específico em qualquer uma das listas (Médio ou Técnico) a partir de sua matrícula.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80aa2c68-46af-40d7-a9d9-d8fc39eb3cb9" alt="Busca por Matrícula: Permite localizar um aluno específico em qualquer uma das listas (Médio ou Técnico) a partir de sua matrícula" width="500">
+  <img src="https://github.com/user-attachments/assets/1a95c732-829b-491f-a68b-dc282ccce51a" alt="Busca por Matrícula: Permite localizar um aluno específico em qualquer uma das listas (Médio ou Técnico) a partir de sua matrícula" width="500">
 </p>
 
 4.  **Listagem de Alunos Cadastrados:** Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação.
 
 <p align="center">
-  <img src= "https://github.com/user-attachments/assets/f65d1eb6-f36f-4fbd-a46a-c9dac5e9817c" alt="Listagem de Alunos Cadastrados: Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação." width="500">
+  <img src= "https://github.com/user-attachments/assets/764d54a2-7d4f-4085-8343-bb8162339f34" alt="Listagem de Alunos Cadastrados: Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação." width="500">
 </p>
 
 ## Validação de Dados
@@ -58,7 +58,7 @@ Um dos pilares do sistema é a garantia da integridade dos dados inseridos pelo 
 O vídeo a seguir demonstra como o sistema reage a entradas inválidas, solicitando a correção ao usuário.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/90304684-1cb3-419a-b40b-67bfbf8676f0" controls="controls" style="max-width: 800px;"></video>
+  <video src="https://github.com/user-attachments/assets/399ca0e2-b27a-496c-b8ca-04142eef05e5" controls="controls" style="max-width: 800px;"></video>
 </div>
 
 ## Paradigma de Orientação a Objetos em C++
