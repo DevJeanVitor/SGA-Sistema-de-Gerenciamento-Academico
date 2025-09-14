@@ -43,8 +43,7 @@ O sistema oferece as seguintes operações:
 4.  **Listagem de Alunos Cadastrados:** Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação.
 
 <p align="center">
-  <img src= "https://github.com/user-attachments/assets/1a95c732-829b-491f-a68b-dc282ccce51a
-" alt="Listagem de Alunos Cadastrados: Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação." width="500">
+  <img src= "https://github.com/user-attachments/assets/1a95c732-829b-491f-a68b-dc282ccce51a" alt="Listagem de Alunos Cadastrados: Exibe todos os alunos cadastrados, separados por categoria, com seus respectivos detalhes, média final e status de aprovação." width="500">
 </p>
 ## Validação de Dados
 
