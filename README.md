@@ -9,7 +9,7 @@ O SGA é um sistema de console desenvolvido em C++ para o gerenciamento de regis
 O vídeo abaixo apresenta uma demonstração completa das funcionalidades do sistema, desde o cadastro de diferentes tipos de alunos até a consulta e listagem dos registros.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/297ce749-ef5e-4caf-89f2-87c80180b886" controls="controls" style="max-width: 800px;"></video>
+  <video src="https://github.com/user-attachments/assets/008d27ff-ea29-4833-8d40-243892e24813" controls="controls" style="max-width: 800px;"></video>
 </div>
 
 ## Sobre o Projeto
@@ -57,7 +57,7 @@ Um dos pilares do sistema é a garantia da integridade dos dados inseridos pelo 
 O vídeo a seguir demonstra como o sistema reage a entradas inválidas, solicitando a correção ao usuário.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/399ca0e2-b27a-496c-b8ca-04142eef05e5" controls="controls" style="max-width: 800px;"></video>
+  <video src="https://github.com/user-attachments/assets/0faf7e36-b08e-45e8-9f52-726a1e41de22" controls="controls" style="max-width: 800px;"></video>
 </div>
 
 ## Paradigma de Orientação a Objetos em C++
