@@ -131,7 +131,7 @@ O projeto já inclui um ficheiro de configuração tasks.json para facilitar a c
 
 **Aviso sobre o Tempo de Compilação**
 
-Este projeto utiliza a biblioteca `<regex>` do C++ para garantir uma validação robusta de nomes e cursos. A depender das especificações técnicas do seu computador, o processo de **compilação** (ao executar o comando `g++` ou a tarefa no VS Code) pode demorar um pouco mais do que o esperado.
+Este projeto utiliza a biblioteca `<regex>` do C++ para garantir uma validação robusta de nomes e cursos. A depender das especificações técnicas do seu computador, o processo de **compilação** (ao executar o comando `g++` ou a tarefa no VS Code) pode demorar um pouco mais do que o esperado. Este é um comportamento normal e não afeta a performance do programa após executado.
 
 ## Autor
 
