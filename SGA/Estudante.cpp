@@ -1,4 +1,5 @@
 #include "Estudante.h"
+#include <iomanip>
 
 Estudante::Estudante(const std::string& nomeEstudante, int matriculaEstudante, double nota1Estudante, double nota2Estudante)
     : nome(nomeEstudante), matricula(matriculaEstudante), nota1(nota1Estudante), nota2(nota2Estudante), mediaFinal(0), resultadoFinal("") {}
@@ -33,10 +34,11 @@ void Estudante::exibirDetalhes() const {
     std::cout << "Matrícula......... " << matricula << std::endl;
     std::cout << "Nota 1............ " << nota1 << std::endl;
     std::cout << "Nota 2............ " << nota2 << std::endl;
-    std::cout << "Média Final....... " << mediaFinal << std::endl;
+    std::cout << "Média Final....... " << std::fixed << std::setprecision(2) << mediaFinal << std::endl;
     std::cout << "Situação Final.... " << resultadoFinal << std::endl;
     std::string curso = obterDadosExtras();
     if (!curso.empty()) {
         std::cout << "Curso ............ " << curso << std::endl;
     }
+
 }
